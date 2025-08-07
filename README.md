@@ -14,7 +14,8 @@ A Streamlit app that matches resumes to job descriptions based on skill similari
 - PyPDF2, sklearn, nltk
 
 ##  Demo
-![Demo]("C:\Users\anshuman\Desktop\Resume Matcher\assests\Demo.gif")
+Here’s a quick demo of the Resume Matcher app in action:
+![Demo](assets/demo.gif)
 
 ##  How to Run
 ```bash
