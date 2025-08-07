@@ -2,7 +2,7 @@
 
 A Streamlit app that matches resumes to job descriptions based on skill similarity.
 
-## Features
+##  Features
 - Upload resume (PDF)
 - Upload job description (text)
 - See matched skills and % similarity
@@ -16,7 +16,8 @@ A Streamlit app that matches resumes to job descriptions based on skill similari
 ##  Demo
 ![Demo](assets/demo.gif)
 
-## How to Run
+##  How to Run
 ```bash
 pip install -r requirements.txt
 streamlit run app/app.py
+
