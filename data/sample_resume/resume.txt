@@ -1,0 +1,16 @@
+John Doe
+B.Tech in Computer Science – 3rd Year
+
+Skills:
+- Python, Pandas, NumPy
+- Machine Learning (Scikit-learn)
+- Data Visualization (Matplotlib, Seaborn)
+- Jupyter Notebook
+
+Projects:
+- House Price Predictor using linear regression
+- Image Classifier using CNN
+
+Soft Skills:
+- Communication
+- Team collaboration

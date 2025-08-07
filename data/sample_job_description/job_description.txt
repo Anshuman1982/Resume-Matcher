@@ -1,0 +1,11 @@
+We are seeking a Data Science Intern with a strong foundation in machine learning and data analysis.
+Responsibilities include:
+- Data preprocessing and cleaning
+- Building and evaluating ML models
+- Working with Python libraries like Pandas, Scikit-learn, and Matplotlib
+
+Requirements:
+- Proficiency in Python
+- Familiarity with ML concepts
+- Good communication skills
+- Experience with Jupyter Notebook
