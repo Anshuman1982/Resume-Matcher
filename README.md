@@ -15,7 +15,7 @@ A Streamlit app that matches resumes to job descriptions based on skill similari
 
 ##  Demo
 Here’s a quick demo of the Resume Matcher app in action:
-![Demo](C:\Users\anshuman\Desktop\Resume Matcher\assets\Demo.gif)
+![Demo]()
 
 ##  How to Run
 ```bash
